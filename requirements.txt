@@ -1,0 +1,6 @@
+flask
+openpyxl
+requests
+beautifulsoup4
+# optional - only needed if the website's calculator turns out to be JavaScript-based:
+# playwright   (then run: playwright install chromium)
