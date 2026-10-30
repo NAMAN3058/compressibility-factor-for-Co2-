@@ -1,7 +1,7 @@
 flask
 openpyxl
 requests
-gunicorn
 beautifulsoup4
-# optional - only needed if the website's calculator turns out to be JavaScript-based:
-# playwright   (then run: playwright install chromium)
+# Only needed if the Peace Software page ever turns into a JavaScript-only calculator
+# (the app switches to a real browser automatically). Then also run:  playwright install chromium
+playwright
